@@ -146,14 +146,14 @@
     color: red;
 }
 .p2{
-    position: center;
+    position: absolute;
     top: 45%;
     font-size: 40px;
     text-decoration: none;
     padding: 20px;
     margin: 5px;
     color: blue;
-    text-align:center;
+    text-align: absolute;
 }
 .box-container{
     display: flex;
